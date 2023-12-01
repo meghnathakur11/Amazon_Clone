@@ -42,10 +42,7 @@
 }
 
 
-
-
 /* Deliver to box */
-
 
 .address{
     height: 50px;
@@ -67,10 +64,6 @@
     display: flex;
     align-items: center;
 }
-
-
-
-
 
 /* Search box */
 
@@ -119,9 +112,6 @@
     font-size: 0.95rem;
 }
 
-
-
-
 /* signin */
 
 .signin span{
@@ -133,8 +123,6 @@
     font-weight: 700;
 }
 
-
-
 /* box 5 */
 .order span{
     font-size: 0.71rem;
@@ -144,10 +132,6 @@
     font-size: 0.85rem;
     font-weight: 700;
 }
-
-
-
-
 
 /* Cart */
 
@@ -160,13 +144,6 @@
     font-size: 32.5px;
 }
 
-
-
-
-
-
-
-
 /* panel */
 
 .panel{
@@ -178,7 +155,6 @@
     justify-content: space-evenly;
 }
 
-
 .panel-middle p{
     display: inline; 
     margin-left: 20px;
@@ -189,21 +165,12 @@
     width: 79%;
 }
 
-
 .panel-last{
     font-size: 0.9rem;
     font-weight: 700;
 }
 
-
-
-
-
-
-
-
 /* main */
-
 
 .middle{
     background-image: url(photos/main-bck-img.jpg);
@@ -225,10 +192,6 @@
    margin-bottom: 10rem;
 }
 
-
-
-
-
 /* img gallery */
 
 .img-gallery{
@@ -237,7 +200,6 @@
     overflow-x: scroll;
     /* background-color: #222f3d; */
 }
-
 
 .img-gallery  div{
 
@@ -267,8 +229,6 @@
   
 }
 
-
-
 #backBtn, #nextBtn{
     width: 40px;
     cursor: pointer;
@@ -283,17 +243,6 @@
     transform: scale(1.1) ;
     box-shadow: 3px 3px 3px rgb(97, 97, 73);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* Products */
 
@@ -336,20 +285,6 @@
     cursor: pointer;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* footer */
 
 
@@ -390,10 +325,6 @@
     font-weight: 700;
 }
 
-
-
-
-
 /* footer - last panel */
 
 .foot-last1{
@@ -412,7 +343,6 @@
     width: 100px;
     background-size: cover;
 }
-
 
 .foot-last2{
     background-color: #0f1111;
